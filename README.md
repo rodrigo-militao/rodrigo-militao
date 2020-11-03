@@ -40,10 +40,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.rodrigo-militao.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.www.rodrigo-militao.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rodrigo-militao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rodrigo-militao-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.rodrigo-militao.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Simple Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rodrigo-militao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
 </a>
-<a href="mailto:militaorodrigo9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-militaorodrigo9@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</a>
 </p>
 
 <!--
