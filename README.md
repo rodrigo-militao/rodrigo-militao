@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Full Stack Web Development at Trybe.
-- 💼 &nbsp; Working as a Freelancer.
-- 🌱 &nbsp; Learning more about Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Working as a Software Engineer at XP Inc.
+- 🌱 &nbsp; Learning more about Software Architecture.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
