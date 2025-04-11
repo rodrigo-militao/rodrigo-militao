@@ -2,13 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Hello! I'm a passionate backend software engineer, aged 24, with 5 years of professional journey in the technology field. Currently, I am part of the XP Investimentos team, where I have been contributing my knowledge and skills for the past 3 years.
+Hello! I'm a passionate backend software engineer, aged 25, with 6 years of professional journey in the technology field. Currently, I am part of the Bradesco team, where I have been contributing my knowledge and skills for the past year.
 
 My journey encompasses a broad mastery of various programming languages such as C#, Java, Javascript, and Typescript. Additionally, I am currently enhancing my skills in Golang, a language I see as promising and relevant to the current software development landscape.
 
 In terms of technologies, I am well-versed in .NET, Springboot, NodeJs, Docker, and databases like MongoDB, MySQL, and PostgreSQL, among others. I have practical experience in crafting and implementing robust, scalable solutions, employing industry best practices.
-
-I am an innovation enthusiast and am always eager to learn and adapt to new technologies and market trends. My GitHub profile reflects my dedication to quality software development, with projects showcasing my ability to efficiently and elegantly solve complex problems.
 
 I am open to challenging opportunities that allow me to continue growing professionally and contributing to meaningful projects in the technology realm.
 
